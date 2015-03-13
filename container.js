@@ -79,10 +79,10 @@ function setwinners() {
 }
 
 function swiperight() {
-	$( '#panner' ).animate( { right: '+=380' }, 100, function() {} )
+	$( '#panner' ).animate( { right: '+=360' }, 100, function() {} )
 }
 function swipeleft() {
-	$( '#panner' ).animate( { right: '-=380' }, 100, function() {} )
+	$( '#panner' ).animate( { right: '-=360' }, 100, function() {} )
 }
 
 $( document ).ready( function() {

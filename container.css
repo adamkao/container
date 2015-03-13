@@ -2,7 +2,7 @@
 	position: fixed;
 	bottom: 0;
 	right: 0;
-	width: 380px;
+	width: 360px;
 	overflow: hidden;
 }
 #panner {
@@ -15,7 +15,7 @@
 	height:120px;
 }
 .screen {
-	width: 360px;
+	width: 340px;
 }
 .rt {
 	text-align: right;	
